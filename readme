@@ -1,0 +1,25 @@
+=== Plugin Name ===
+Contributors: Neha Bisht
+Donate link: http://example.com/
+Tags: comments, spam
+Requires at least: GPL2
+Tested up to: 3.4
+Requires PHP: 5.2.4
+Stable tag: 4.3
+License: GPLv2 or later
+ 
+The popular posts plugin uses the views count from any post that is been updated or viewed on the website and uses a widget area to show the link of these blogs as well as the number of views they have recieved.
+ 
+== Description ==
+ 
+The popular posts plugin uses the views count from any post that is been updated or viewed on the website and uses a widget area to show the link of these blogs as well as the number of views they have recieved.
+
+Blogging requires content management by focusing on what users like to read in blogs.
+Helps in predicting the kind of posts viewed by users.
+ Popularity of blogs on the website and helping in better content management of posts.
+Bloggers to come up with posts related to popular posts for getting more visitors and increase user engagement of the website.
+ 
+This Plugin is a popular posts plugin.
+This plugin is used to count the number of views of a blog post whenever a post is visited or loaded.
+
+ 
